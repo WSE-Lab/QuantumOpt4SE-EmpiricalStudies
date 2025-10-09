@@ -1,0 +1,674 @@
+﻿Title,Bib,Included,ApproachSettings,ExperimentalSettings-IndependentRepeats,ExperimentalSettings-Shots,ExperimentalSettings-QuantumNoise,ExperimentalSettings-NumberOfUsedQubits,ExperimentalSettings-TerminiationForTheApproach,ProblemMetrics-Complexity,ProblemMetrics-Size,ApproachMetrics-Effectiveness-General,ApproachMetrics-Effectiveness-ProblemSpecific,ApproachMetrics-Effectiveness-GeneralDiversity,ApproachMetrics-Effectiveness-QuantumSpecific,ApproachMetrics-Complexity,ApproachMetrics-Efficiency,ApproachMetrics-Cost,CaseStuyLabel,NumberOfCases,CSOpenSource?,CSOpenSourceURL,BaselineType,NumberOfBaselines,ToolOpenSource?
+Cloning and Beyond: A Quantum Solution to Duplicate Code,"@inproceedings{jhaveri2023cloning,
+  title={Cloning and beyond: A quantum solution to duplicate code},
+  author={Jhaveri, Samyak and Krone-Martins, Alberto and Lopes, Cristina V},
+  booktitle={Proceedings of the 2023 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software},
+  pages={32--49},
+  year={2023}
+}",[Y],[Penalty coefficient],[Approach evaluation: 10],[QA hardware: 650],[Un-specified],[Un-specified],[Un-specified],[Abstract syntax tree],[Number of nodes],[Un-specified],[Un-specified],[Un-specified],[Energy value],[Un-specified],[Un-specified],[Optimization time],[Artificial],[6],[N*],N/A,N/A,[0],[N]
+Quantum Solution for Configuration Selection and Prioritization,"@inproceedings{ammermann2024quantum,
+  title={Quantum Solution for Configuration Selection and Prioritization},
+  author={Ammermann, Joshua and Brenneisen, Fabian Jakob and Bittner, Tim and Schaefer, Ina},
+  booktitle={Proceedings of the 5th ACM/IEEE International Workshop on Quantum Software Engineering},
+  pages={21--28},
+  year={2024}
+}",[Y],[QAOA layers]; [Selection of classical optimizers for variational algorithms]; [Penalty coefficient]; [QAOA start parameters],[Un-specified],[QAOA simulator: 256],[Un-specified],[Ideal classical simulator: 6 to 32 logical qubits],[Number of maximum iterations: 1000],[Number of clauses]; [Number of literals],[Number of features],[Validity quality]; [Cost quality]; [Rank-biased overlap],[Un-specified],[Un-specified],[Energy value]; [Depth of a quantum operator]; [Width of a quantum operator]; ,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[Y],[https://github.com/KIT-TVA/qc-configuration-problem],N/A,[0],[Y]
+Research on Genetic Quantum Particle Swarm Optimization Fusion Algorithm in Virtual Machine Scheduling,"@inproceedings{gan2024research,
+  title={Research on Genetic Quantum Particle Swarm Optimization Fusion Algorithm in Virtual Machine Scheduling},
+  author={Gan, Weimin and Li, Jianhui},
+  booktitle={Proceedings of the 2nd International Conference on Educational Knowledge and Informatization},
+  pages={136--142},
+  year={2024}
+}",[Y],[Un-specified],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: 100],[Un-specified],[Number of virtual machines],[Un-specified],[CPU usage rate]; [Energy consumption]; [Task completion time],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; Qi-general],[2],[N]
+Dynamic Transitive Closure-based Static Analysis through the Lens of Quantum Search,"@article{ren2024dynamic,
+  title={Dynamic Transitive Closure-Based Static Analysis through the Lens of Quantum Search},
+  author={Ren, Jiawei and Sui, Yulei and Cheng, Xiao and Feng, Yuan and Zhao, Jianjun},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  volume={33},
+  number={5},
+  pages={1--29},
+  year={2024},
+  publisher={ACM New York, NY}
+}",[Y],[Parameter for Grover subroutine],[Un-specified],[Un-specified],[Un-specified],[Ideal classical simulator: 3 to 8 logical qubits],[Un-specified],[Number of constraints],[Number of nodes],[Precision]; [Recall]; [Success probability],[Un-specified],[Un-specified],[Un-specified],[Time complexity for algorithm execution]; [Time complexity for search/optimization phases],[Un-specified], [Number of iterations],[Artificial]; [Real-world],[10],[N],N/A,[C]; [C],[2],[Y]
+Quantum-Inspired Digital Annealing for Join Ordering,"@article{schonberger2023digitalannealing,
+  title={Quantum-inspired digital annealing for join ordering},
+  author={Sch{\""o}nberger, Manuel and Trummer, Immanuel and Mauerer, Wolfgang},
+  journal={Proceedings of the VLDB Endowment},
+  volume={17},
+  number={3},
+  pages={511--524},
+  year={2023},
+  publisher={VLDB Endowment}
+}",[Y],[Penalty coefficient]; [Threshold configuration]; [Join weights],[Approach evaluation: 10],[DA hardware: 100],[Un-specified],[Un-specified],[Number of maximum iterations: $10^8$; Time budget: 60s],[Number of joins]; [Graph type]; [Number of predicates],[Number of relations],[Un-specified],[Solution cost],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Optimization time]; [Execution time],[Benchmark testing],[5],[Y],[https://github.com/lfd/vldb24/tree/main/base/Experiments/Problems/benchmarks],[C; C; C; C; C; C; Qi-specific],[7],[Y]
+Quantum-based Automotive Threat Intelligence and Countermeasures,"@inproceedings{barletta2024quantum,
+  title={Quantum-based automotive threat intelligence and countermeasures},
+  author={Barletta, Vita Santa and Caivano, Danilo and Catalano, Christian and De Vincentiis, Mirko},
+  booktitle={Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering},
+  pages={548--554},
+  year={2024}
+}",[Y],[QBoost hyperparameters];  [Dataset split ratio],[Un-specified],[QA hardware: 3000],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Accuracy]; [Precision]; [Recall]; [F1 score],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Training time]; [Prediction time],[Real-world],[1],[Y],[https://github.com/IEEM-HsKA/AAD],N/A,[0],[N]
+Optimizing Transaction Schedules on Universal Quantum Computers via Code Generation for Grover’s Search Algorithm,"@inproceedings{groppe2021optimizing,
+  title={Optimizing transaction schedules on universal quantum computers via code generation for grover’s search algorithm},
+  author={Groppe, Sven and Groppe, Jinghua},
+  booktitle={Proceedings of the 25th International Database Engineering \& Applications Symposium},
+  pages={149--156},
+  year={2021}
+}",[Y],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of conflicts],[Number of CPU cores]; [Number of transactions]; [Length of transactions],[Number of optimal solutions]; [Number of suboptimal solutions],[Un-specified],[Un-specified],[Energy value],[Time complexity for algorithm execution]; [Space complexity]; [Code size complexity]; [Time complexity for preprocessing],[Speedup factor],[Un-specified],[Artificial],[1],[N],N/A,[C; Q],[2],[Y]
+Test Case Prioritization and Reduction Using Hybrid Quantum-behaved Particle Swarm Optimization,"@inproceedings{bajaj2022test,
+  title={Test case prioritization and reduction using hybrid quantum-behaved particle swarm optimization},
+  author={Bajaj, Anu and Abraham, Ajith},
+  booktitle={2022 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={1--8},
+  year={2022},
+  organization={IEEE}
+}",[Y],[Population size],[Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 1000],[Un-specified],[Un-specified],[Un-specified],[Test reduction percentage]; [Coverage loss percentage]; [Fault detection loss percentage]; [Cost reduction percentage]; [Average percentage of fault detection]; [Average percentage of fault detection with cost]; [Average percentage of statement coverage]; [Average percentage of statement coverage with cost],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Real-world],[3],[N],[https://sir.csc.ncsu.edu/portal/index.php],[C; C; C; C; C; C],[6],[N]
+Evaluating the Performance of a D-Wave Quantum Annealing System for Feature Subset Selection in Software Defect Prediction,"@inproceedings{mandal2024evaluating,
+  title={Evaluating the Performance of a D-Wave Quantum Annealing System for Feature Subset Selection in Software Defect Prediction},
+  author={Mandal, Ashis Kumar and Nadim, Md and Roy, Chanchal K and Roy, Banani and Schneider, Kevin A},
+  booktitle={2024 IEEE International Conference on Quantum Computing and Engineering (QCE)},
+  volume={2},
+  pages={103--108},
+  year={2024},
+  organization={IEEE}
+}",[Y],[Weight of each objective]; [Dataset split ratio],[Un-specified],[QA hardware: 100],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of features],[Accuracy]; [F1 score],[Number of reduced features],[Un-specified],[Energy value],[Un-specified],[Un-specified],[Optimization time],[Real-world],[24],[N],[AEEEM: https://bug.inf.usi.ch/index.php]; [JIRA: https://github.com/awsm-research/Rnalytica]; [NASA: https://github.com/klainfo/NASADefectDataset],[C],[1],[N]
+An optimized clustering model for heterogeneous cross-project defect prediction using Quantum Crow search,"@inproceedings{deepalakshmi2022optimized,
+  title={An optimized clustering model for heterogeneous cross-project defect prediction using Quantum Crow search},
+  author={Deepalakshmi, J and Chandran, M},
+  booktitle={2022 1st International Conference on Software Engineering and Information Technology (ICoSEIT)},
+  pages={30--35},
+  year={2022},
+  organization={IEEE}
+}",[Y],[Un-specified],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: Un-specificed; Indicator for concergence: Un-specified],[Un-specified],[Number of features],[Un-specified],[Number of correct clusters]; [Number of incorrect clusters]; [Error rate],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Real-world],[6],[N],N/A,[C; C],[2],[N]
+Quantum Approximate Optimization Algorithm for Test Case Optimization,"@article{wang2024quantum,
+  title={Quantum approximate optimization algorithm for test case optimization},
+  author={Wang, Xinyi and Ali, Shaukat and Yue, Tao and Arcaini, Paolo},
+  journal={IEEE Transactions on Software Engineering},
+  year={2024},
+  publisher={IEEE}
+}",[Y],[QAOA layers]; [Sub-problem size]; [Weight of each objective]; [Parameter for decomposition strategy]; [Selection of classical optimizers for variational algorithms] ,[Approach evaluation: 30],[Un-specified],[“ibm_brisbane” noise model],[Ideal classical simulator: 7 to 16 logical qubits; Noisy classical simulator: 7 logical qubits; Quantum hardware: 7 logical qubits],[Number of maximum iterations: 30; Indicator for convergence: No fitness improvement for 3 consecutive iterations],[Un-specified],[Number of test cases],[Approximation ratio],[Fitness value],[Un-specified],[Un-specified],[Time complexity for algorithm execution]; [Time complexity for preprocessing]; [Time complexity for search/optimization phases],[Un-specified],[Execution time],[Real-World],[4],[Y],[https://doi.org/10.5281/zenodo.13911651],[H; C; C],[3],[Y]
+Quantum based Fault-Tolerant Load Balancing in Cloud Computing with Quantum Computing,"@inproceedings{dornala2023quantum,
+  title={Quantum based Fault-Tolerant Load Balancing in Cloud Computing with Quantum Computing},
+  author={Dornala, Raghunadha Reddi and Ponnapalli, Sudhir and Sai, Kalakoti Thriveni and Koteru, Siva Rama Krishna Reddi and Koteru, Rami Reddy and Koteru, Bhavani},
+  booktitle={2023 3rd International Conference on Innovative Mechanisms for Industry Applications (ICIMIA)},
+  pages={1153--1160},
+  year={2023},
+  organization={IEEE}
+}",[Y],[Un-specified],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: Un-specificed; Indicator for convergence: Un-specified],[Un-specified],[Un-specified],[Un-specified],[Response time]; [Throughput]; [Resource utilization]; [Request error rate],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; C],[2],[N]
+A Test Suite Reduction Method Based on Novel Quantum Ant Colony Algorithm,"@inproceedings{zhang2017test,
+  title={A test suite reduction method based on novel quantum ant colony algorithm},
+  author={Zhang, Ya-nan and Yang, Hong and Lin, Zheng-kui and Dai, Qing and Li, Yu-feng},
+  booktitle={2017 4th International Conference on Information Science and Control Engineering (ICISCE)},
+  pages={825--829},
+  year={2017},
+  organization={IEEE}
+}",[Y],[Population size]; [Initial qubit states]; [Parameter for updating quantum rotation angles]; [Heuristic information factor]; [Pheromone-related parameters]; [Incremental coefficient]; [Evaporation coefficient]; [Variation coefficient],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: Adaptive],[Test requirements],[Number of test cases],[Un-specified],[Solution cost],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Real-World],[7],[N],N/A,[C; C; C; C; C],[5],[N]
+An Effective Approach to High Strength Covering Array Generation in Combinatorial Testing,"@article{guo2023effective,
+  title={An Effective Approach to High Strength Covering Array Generation in Combinatorial Testing},
+  author={Guo, Xu and Song, Xiaoyu and Zhou, Jian-tao and Wang, Feiyu and Tang, Kecheng},
+  journal={IEEE Transactions on Software Engineering},
+  volume={49},
+  number={10},
+  pages={4566--4593},
+  year={2023},
+  publisher={IEEE}
+}",[Y],[Population size]; [Initial qubit states]; [Parameter for updating quantum rotation angles]; [Initial temperature]; [Population reinitialization threshold],[Parameter tuning: 20]; [Approach evaluation: 10],N/A,N/A,N/A,[Number of maximum iterations: 75; Time budget: 24h],[Un-specified],[Number of parameters for software under test]; [Number of discrete values per parameter]; [Covering strength],[Un-specified],[Size of the generated test suite],[Un-specified],N/A,[Space complexity]; [Time complexity of parameter combination search]; [Time complexity of value combination search]; [Time complexity of fitness calculation],[Un-specified],[Execution time],[Benchmark testing],[2],[N],N/A,[Qi-general; Qi-general; Qi-general; Qi-general; C; C; C; C; C; C; C; C; C; C; C; C],[16],[N]
+Quantum-inspired ant lion optimized hybrid k-means for cluster analysis and intrusion detection,"@article{chen2020quantum,
+  title={Quantum-inspired ant lion optimized hybrid k-means for cluster analysis and intrusion detection},
+  author={Chen, Junwen and Qi, Xuemei and Chen, Linfeng and Chen, Fulong and Cheng, Guihua},
+  journal={Knowledge-Based Systems},
+  volume={203},
+  pages={106167},
+  year={2020},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Crossover setting]; [Mutation setting];  [Initial qubit states] ,[Approach evaluation: 10],N/A,N/A,N/A,[Number of maximum iterations: 100],[Un-specified],[Number of instances]; [Number of classes]; [Number of attributes],[Accuracy]; [F1 score]; [Sum of intra-cluster distance],[Detection rate],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Benchmark testing]; [Real-world],[8],[Y],[UCI repository: https://archive.ics.uci.edu/]; [KDD Cup 1999 Data: https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html],[C; C; C; C; C; C],[6],[N]
+A novel approach of localization with single mobile anchor using quantum-based Salp swarm algorithm in wireless sensor networks,"@article{rani2023novel,
+  title={A novel approach of localization with single mobile anchor using quantum-based Salp swarm algorithm in wireless sensor networks},
+  author={Rani, Shalli and Babbar, Himanshi and Kaur, Pardeep and Ali Khan, Asif},
+  journal={Soft Computing},
+  pages={1--15},
+  year={2023},
+  publisher={Springer}
+}",[Y],[Population size]; [Gaussian noise]; [Transmission power of anchor and virtual anchor nodes],[Approach evaluation: 16],N/A,N/A,N/A,[Number of maximum iterations: 100],[Communication radius],[Network size]; [Number of nodes],[Un-specified],[Localization error]; [Number of localized nodes] ,[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C; C],[2],[N]
+An enriched chaotic quantum whale optimization algorithm based job scheduling in cloud computing environment,"@article{kiruthiga2019enriched,
+  title={An enriched chaotic quantum whale optimization algorithm based job scheduling in cloud computing environment},
+  author={Kiruthiga, G and Vennila, S Mary},
+  journal={International Journal of Advanced Trends in Computer Science and Engineering},
+  volume={6},
+  number={4},
+  pages={1753--1760},
+  year={2019}
+}",[Y],[Parameters for chaotic mapping],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: Un-specified],[Environment constraints],[Number of jobs]; [Number of virtual machines],[Un-specified],[Energe consumption]; [Resource utilization]; [Makespan]; [Degree of imbalance]; [Cost of task execution],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; C; C],[3],[N]
+Minimizing incident response time in real-world scenarios using quantum computing,"@article{serrano2024minimizing,
+  title={Minimizing incident response time in real-world scenarios using quantum computing},
+  author={Serrano, Manuel A and S{\'a}nchez, Luis E and Santos-Olmo, Antonio and Garc{\'\i}a-Rosado, David and Blanco, Carlos and Barletta, Vita Santa and Caivano, Danilo and Fern{\'a}ndez-Medina, Eduardo},
+  journal={Software Quality Journal},
+  volume={32},
+  number={1},
+  pages={163--192},
+  year={2024},
+  publisher={Springer}
+}",[Y],[Penalty coefficient],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Interdependencies between incidents and controls],[Number of incidents],[Un-specified],[Number of selected incidents],[Un-specified],[Energy value],[Un-specified],[Un-specified],[Optimization time]; [Economic cost]; [Execution time],[Real-world],[1],[N],N/A,[C],[1],[N]
+Hybrid Optimization-Based GRU Neural Network for Software Reliability Prediction,"@inproceedings{wu2020hybrid,
+  title={Hybrid optimization-based GRU neural network for software reliability prediction},
+  author={Wu, Maochuan and Lin, Junyu and Shi, Shouchuang and Ren, Long and Wang, Zhiwen},
+  booktitle={International conference of pioneering computer scientists, engineers and educators},
+  pages={369--383},
+  year={2020},
+  organization={Springer}
+}",[Y],[Population size]; [Inertia weight]; [Learning factor]; [Search space],[Approach evaluation on benchmarks: 30]; [Approach evaluation on real-world datasets: 20],N/A,N/A,N/A,[Number of maximum iterations: 1000; Criterion of finding optimal solutions: Un-specified],[Un-specified],[Dimensions of benchmark functions]; [Number of the datasets],[Mean absolute percentage error]; [Root mean square error]; [Accuracy]; [Precision]; [Recall]; [F1 score],[Optimal value]; [Mean optimal value]; [Number of hidden nodes],[Un-specified],N/A,[Un-specified],[Un-specified],[Mean iterations for successful results],[Benchmark testing]; [Real-world],[6] ,[N],[https://github.com/klainfo/NASADefectDataset],[C; Qi-general; C]; [C; Qi-general],[5],[N]
+Quantum Approaches for WCET-Related Optimization Problems,"@inproceedings{bettonte2022quantum,
+  title={Quantum approaches for WCET-related optimization problems},
+  author={Bettonte, Gabriella and Gilbert, Valentin and Vert, Daniel and Louise, St{\'e}phane and Sirdey, Renaud},
+  booktitle={International Conference on Computational Science},
+  pages={202--217},
+  year={2022},
+  organization={Springer}
+}",[Y],[Penalty coefficient]; [QAOA layers]; [Selection of classical optimizers for variational algorithms]; [Initial temperature]; [Thermal equilibrium] ,[Un-specified],[QA hardware: 1000]; [QAOA simulator: 1024],[Un-specified],[Quantum hardware: 12 and 15 qubits]; [Classical simulator: Un-specified],[Un-specified]; [Un-specified],[Number of IF conditions]; [Number of SWITCH choices],[Number of basic blocks],[Approximation ratio]; [Optimal solution probability],[Un-specified],[Un-specified],[Energy value],[Un-specified],[Un-specified],[Un-specified],[Artificial]; [Real-world],[4],[N],N/A,[C],[1],[N]
+Comparing the performance of quantum-inspired evolutionary algorithms for the solution of software requirements selection problem,"@article{kumari2016comparing,
+  title={Comparing the performance of quantum-inspired evolutionary algorithms for the solution of software requirements selection problem},
+  author={Kumari, A Charan and Srinivas, K},
+  journal={Information and Software Technology},
+  volume={76},
+  pages={31--64},
+  year={2016},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Mutation setting]; [Crossover setting]; [Parameter for updating quantum rotation angles]; [Initial qubit states],[Approach evaluation: 30],N/A,N/A,N/A,[Number of objective function evaluations: $10^4$],[Density of the customer-requirements matrix],[Number of customers]; [Number of requirements],[Generational distance],[Development cost]; [Customer satisfaction],[Spread]; [Hypervolume]; [Number of solutions],N/A,[Un-specified],[Un-specified],[Execution time],[Benchmark testing]; [Real-world],[7],[N],[RALIC: http://www0.cs.ucl.ac.uk/staff/S.Lim/soolinglim/Datasets.html],[Qi-general; Qi-general; Qi-general; C],[4],[N]
+Quantum-inspired multi-objective African vultures optimization algorithm with hierarchical structure for software requirement,"@article{liu2024quantum,
+  title={Quantum-inspired multi-objective African vultures optimization algorithm with hierarchical structure for software requirement},
+  author={Liu, Bo and Zhou, Guo and Zhou, Yongquan and Luo, Qifang and Wei, Yuanfei},
+  journal={Cluster Computing},
+  volume={27},
+  number={8},
+  pages={11317--11345},
+  year={2024},
+  publisher={Springer}
+}",[Y],[Population size]; [Parameter for updating quantum rotation angles]; [Hierarchical structure parameter],[Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 100],[Number of interactions constraints],[Number of customers]; [Number of requirements],[Un-specified],[Development cost]; [Customer satisfaction],[Spread]; [Hypervolume]; [Number of non-dominated solutions],N/A,[Time complexity for algorithm execution]; [Space complexity],[Un-specified],[Un-specified],[Benchmark testing]; [Real-world],[14],[N*],[Large-scale dataset: https://zenodo.org/records/7247877],[C; C; C; C; C; C; C; C; C; C; C; C; C],[13],[N]
+Cross-project software defect prediction based on domain adaptation learning and optimization,"@article{jin2021cross,
+  title={Cross-project software defect prediction based on domain adaptation learning and optimization},
+  author={Jin, Cong},
+  journal={Expert Systems with Applications},
+  volume={171},
+  pages={114637},
+  year={2021},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Threshold configuration],[Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 300; Indicator for convergence: The absolute difference between two adjacent steps less than 0.001 for 10 times],[Number of attributes]; [Percentage of defect-prone instances],[Number of instances],[F1 score]; [Area under the ROC curve],[Un-specified],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Real-world],[13],[N],"[AEEEM: https://bug.inf.usi.ch/index.php]; [Kmei: http://research.cs.queensu.ca/~kamei/jittse/jit.zip];
+[Promise: https://openscience.us/repo/defect/]; [ReLink: https://cse.hkust.edu.hk/~scc/ReLink.htm]",[C; C; C; C; C; C; C; C; C],[9],[N]
+A new quantum particle swarm optimization algorithm for controller placement problem in software-defined networking,"@article{zhang2021new,
+  title={A new quantum particle swarm optimization algorithm for controller placement problem in software-defined networking},
+  author={Zhang, Quanyuan and Li, Haolun and Liu, Yanli and Ouyang, Shangrong and Fang, Caiting and Mu, Wentao and Gao, Hao},
+  journal={Computers and Electrical Engineering},
+  volume={95},
+  pages={107456},
+  year={2021},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Number of elite particles]; [Judgment factor],[Approach evaluation: 30],N/A,N/A,N/A,"[Number of maximum iterations: 50, 60 or 200]",[Number of network links],[Number of controllers]; [Number of nodes],[Un-specified],[Total latency in software defined networking],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Real-world],[3],[N],[https://github.com/sk2/topologyzoo],[C; C; C; C; C; C; Qi-general; C; C; C],[10],[N]
+Parameter optimization of software reliability growth model with S-shaped testing-effort function using improved swarm intelligent optimization,"@article{jin2016parameter,
+  title={Parameter optimization of software reliability growth model with S-shaped testing-effort function using improved swarm intelligent optimization},
+  author={Jin, Cong and Jin, Shu-Wei},
+  journal={Applied Soft Computing},
+  volume={40},
+  pages={283--291},
+  year={2016},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Contraction-expansion coefficient],[Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 200; Indicator for convergence: The absolute difference between two adjacent steps less than an un-specified threshold for 10 times],[Un-specified],[Number of problem parameters],[Average error]; [Mean squared errors]; [Relative error],[Number of faults],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Real-world],[2],[N*],N/A,[C; C; C; C; C; C; Qi-general; Qi-general; Qi-general; C; Qi-general],[11],[N]
+Improved novel bat algorithm for test case prioritization and minimization,"@article{bajaj2022improved,
+  title={Improved novel bat algorithm for test case prioritization and minimization},
+  author={Bajaj, Anu and Sangwan, Om Prakash and Abraham, Ajith},
+  journal={Soft Computing},
+  volume={26},
+  number={22},
+  pages={12393--12419},
+  year={2022},
+  publisher={Springer}
+}",[Y],[Population size]; [Inertia weight]; [Contraction-expansion coefficient]; [Compensation rate]; [Pulse emission rate]; [Loudness parameter]; [Frequency parameter]; [Habitat selection probability],[Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 1000],[Un-specified],[Number of test cases],[Un-specified],[Test reduction percentage]; [Coverage loss percentage]; [Fault detection capability loss percentage]; [Cost reduction percentage]; [Fitness value]; [Average percentage of fault detection]; [Average percentage of fault detection with cost]; [Average percentage of statement coverage]; [Average percentage of statement coverage with cost],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Real-world],[3],[N], [https://sir.csc.ncsu.edu/portal/index.php],[C; C; C; C; C; C],[6],[N]
+A synergic quantum particle swarm optimisation for constrained combinatorial test generation,"@article{guo2022synergic,
+  title={A synergic quantum particle swarm optimisation for constrained combinatorial test generation},
+  author={Guo, Xu and Song, Xiaoyu and Zhou, Jian-tao},
+  journal={IET software},
+  volume={16},
+  number={3},
+  pages={279--300},
+  year={2022},
+  publisher={Wiley Online Library}
+}",[Y],[Population size]; [Contraction-expansion coefficient],[Parameter tuning: 50]; [Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 30], [Number of forbidden tuples],[Number of parameters for software under test]; [Number of discrete values per parameter]; [Covering strength],[Un-specified],[Size of the generated test suite],[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Real-world]; [Artificial],[5],[N],N/A,[C; C; Qi-general; Qi-general; C; C; C; C; C; C],[10],[N]
+How can a hybrid quantum-inspired gravitational search algorithm decrease energy consumption in IoT-based software-defined networks?,"@article{tong2023can,
+  title={How can a hybrid quantum-inspired gravitational search algorithm decrease energy consumption in IoT-based software-defined networks?},
+  author={Tong, Lian and Yang, Lan and Zhao, Xin and Liu, Li},
+  journal={Sustainable Computing: Informatics and Systems},
+  volume={40},
+  pages={100920},
+  year={2023},
+  publisher={Elsevier}
+}",[Y],[Un-specified],[Approach evaluation: 10],N/A,N/A,N/A,[Time budget: 300s; Number of maximum iterations: Un-specified],[Network topology],[Network size]; [Number of nodes]; [Package size],[Un-specified],[End-to-end delay]; [Energy consumption]; [Package delivery rate]; [Expected transmission rate],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; C; C],[3],[N]
+An Optimized Deployment Mechanism for Virtual Middleboxes in NFV- and SDN-Enabling Network,"@article{xiong2016optimized,
+  title={An optimized deployment mechanism for virtual middleboxes in NFV-and SDN-enabling network},
+  author={Xiong, Gang and Sun, Penghao and Hu, Yuxiang and Lan, Julong and Li, Kan},
+  journal={KSII Transactions on Internet and Information Systems (TIIS)},
+  volume={10},
+  number={8},
+  pages={3474--3497},
+  year={2016},
+  publisher={Korean Society for Internet Information}
+}",[Y],[Population size]; [Variation coefficient],[Approach evaluation: 10],N/A,N/A,N/A,[Number of maximum iterations: 100],[Resource constraint],[Number of nodes]; [Number of service platforms]; [Number of service types],[Fairness index],[Network overall delay]; [Delay of traffic]; [Satisfaction degree]; [Ratio of service nodes],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; Qi-general],[2],[N]
+Quantum algorithm for solving the test-suite minimization problem,"@article{hussein2021quantum,
+  title={Quantum algorithm for solving the test suite minimization problem},
+  author={Hussein, Hager and Younes, Ahmed and Abdelmoez, Walid},
+  journal={Cogent Engineering},
+  volume={8},
+  number={1},
+  pages={1882116},
+  year={2021},
+  publisher={Taylor \& Francis}
+}",[Y],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Test requirements],[Number of test cases],[Success probability],[Size of the reduced test suite],[Un-specified],N/A,[Time complexity for search/optimization phases],[Un-specified],[Un-specified],[Artificial],[1],[N*],N/A,N/A,[0],[N]
+"Test Case Prioritization, Selection, and Reduction Using Improved Quantum-Behaved Particle Swarm Optimization","@article{bajaj2022Sensorstest,
+  title={Test case prioritization, selection, and reduction using improved quantum-behaved particle swarm optimization},
+  author={Bajaj, Anu and Abraham, Ajith and Ratnoo, Saroj and Gabralla, Lubna Abdelkareim},
+  journal={Sensors},
+  volume={22},
+  number={12},
+  pages={4374},
+  year={2022},
+  publisher={MDPI}
+}",[Y],[Population size]; [Contraction-expansion coefficient],[Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 1000],[Test requirements],[Number of test cases],[Inclusivity],[Test selection percentage]; [Fault detection loss percentage]; [Cost reduction percentage]; [Average percentage of fault detection]; [Average percentage of statement coverage],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Real-world],[3],[N],[https://sir.csc.ncsu.edu/portal/index.php],[C; Qi-general; C; C; C; C; C; C],[8],[N]
+A virtual service placement approach based on improved quantum genetic algorithm,"@article{xiong2016virtual,
+  title={A virtual service placement approach based on improved quantum genetic algorithm},
+  author={Xiong, Gang and Hu, Yu-xiang and Tian, Le and Lan, Ju-long and Li, Jun-fei and Zhou, Qiao},
+  journal={Frontiers of Information Technology \& Electronic Engineering},
+  volume={17},
+  number={7},
+  pages={661--671},
+  year={2016},
+  publisher={Springer}
+}",[Y],[Population size]; [Variation coefficient]; [Initial qubit states],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: 100 or 200],[Network topology],[Number of nodes],[Un-specified],[Transport delay]; [Ratio of service nodes],[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C; C; C; C],[4],[N]
+A Dynamic Service Reconfiguration Method for Satellite-Terrestrial Integrated Networks,"@Article{fi13100260,
+AUTHOR = {Qiao, Wenxin and Lu, Hao and Lu, Yu and Meng, Lijie and Liu, Yicen},
+TITLE = {A Dynamic Service Reconfiguration Method for Satellite–Terrestrial Integrated Networks},
+JOURNAL = {Future Internet},
+VOLUME = {13},
+YEAR = {2021},
+NUMBER = {10},
+ARTICLE-NUMBER = {260},
+URL = {https://www.mdpi.com/1999-5903/13/10/260},
+ISSN = {1999-5903},
+DOI = {10.3390/fi13100260}
+}",[Y],[Population size]; [Chromosome length]; [Weight of each objective]; [Initial qubit states],[Approach evaluation: 10],N/A,N/A,N/A,[Number of maximum iterations: Un-specified],[Un-specified],[Number of nodes]; [Number of service requests],[Un-specified],[End-to-end delay]; [Success rate of service reconfiguration],[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C; C; C],[3],[N]
+A quantum inspired hybrid SSA-GWO algorithm for SLA based task scheduling to improve QoS parameter in cloud computing,"@article{jain2023quantum,
+  title={A quantum inspired hybrid SSA--GWO algorithm for SLA based task scheduling to improve QoS parameter in cloud computing},
+  author={Jain, Richa and Sharma, Neelam},
+  journal={Cluster Computing},
+  volume={26},
+  number={6},
+  pages={3587--3610},
+  year={2023},
+  publisher={Springer}
+}",[Y],[Population size]; [Weight of each objective]; [Chromosome length]; [Controlling parameter],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: 1000],[Un-specified],[Number of virtual machines]; [Number of tasks],[Un-specified],[Fitness value]; [Makespan]; [Profit]; [Service level agreement violation rate]; [Task rejection rate]; [Resource utilization]; [Throughput]; [Response time],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Benchmark testing]; [Real-world],[20],[Y],[Planet Lab workload: https://github.com/beloglazov/planetlab-workload-traces]; [NASA Ames iPSC/860:  https://www.cs.huji.ac.il/labs/parallel/workload/l_nasa_ipsc/],[C; C; C],[3],[N]
+Research on Security Anomaly Detection for Big Data Platforms Based on Quantum Optimization Clustering,"@article{deng2022research,
+  title={Research on security anomaly detection for big data platforms based on quantum optimization clustering},
+  author={Deng, Lijuan and Wan, Long and Guo, Jian},
+  journal={Mathematical Problems in Engineering},
+  volume={2022},
+  number={1},
+  pages={4805035},
+  year={2022},
+  publisher={Wiley Online Library}
+}",[Y],[Pheromone-related parameters]; [Threshold configuration]; [Initial qubit states],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: 1000],[Un-specified],[Dataset size],[Accuracy],[Silhouette value]; [Detection rate]; [False alarm rate],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Benchmark testing]; [Real-world],[2],[N],[https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html],[C; C]; [C; C; C],[5],[N]
+Joint optimization of load balancing and resource allocation in cloud environment using optimal container management strategy,"@article{muniswamy2024joint,
+  title={Joint optimization of load balancing and resource allocation in cloud environment using optimal container management strategy},
+  author={Muniswamy, Saravanan and Vignesh, Radhakrishnan},
+  journal={Concurrency and Computation: Practice and Experience},
+  volume={36},
+  number={12},
+  pages={e8035},
+  year={2024},
+  publisher={Wiley Online Library}
+}",[Y],[Scaling factor and bounds],[Un-specified],N/A,N/A,N/A,[Un-specified],[Un-specified],[Number of servers]; [Number of requests]; [Number of services],[Accuracy]; [Precision]; [Recall]; [F1 score]; [Specificity],[Energy efficiency]; [Number of active servers]; [Communication cost] ,[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C; C; C; C; C],[5],[N]
+An Opposition Learning-based Quantum Inspired Salp Swarm Optimization for The Multiobjective Controller Placement Problem,"@inproceedings{pathak2023opposition,
+  title={An Opposition Learning-based Quantum Inspired Salp Swarm Optimization for The Multiobjective Controller Placement Problem},
+  author={Pathak, Sanjai and Mani, Ashish and Chatterjee, Amlan},
+  booktitle={2023 10th IEEE Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)},
+  volume={10},
+  pages={761--768},
+  year={2023},
+  organization={IEEE}
+}",[Y],[Population size]; [Contraction-expansion coefficient],[Approach evaluation on benchmarks: 30]; [Approach evaluation on real-world datasets: 30],N/A,N/A,N/A,[Number of maximum iterations: 1000],[Un-specified],[Number of nodes]; [Number of controllers]; [Number of possible placements]; [Dimensions of benchmark functions],[Un-specified],[Degree of imbalance]; [Switch-to-controller latency]; [Controller-to-controller latency]; [Fitness value]; [Placement nodes],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Benchmark testing]; [Real-world],[5],[N],N/A,[Qi-general; C],[2],[N]
+Quantum Computing-Inspired Network Optimization for IoT Applications,"@article{bhatia2020quantum,
+  title={Quantum computing-inspired network optimization for IoT applications},
+  author={Bhatia, Munish and Sood, Sandeep K},
+  journal={IEEE Internet of Things Journal},
+  volume={7},
+  number={6},
+  pages={5590--5598},
+  year={2020},
+  publisher={IEEE}
+}",[Y],[Threshold configuration],[Un-specified],N/A,N/A,N/A,[Un-specified],[Un-specified],[Number of sensors]; [Number of sensor parameters]; [Number of objects],[Precision]; [Recall]; [Specificity]; [F1 score]; [Reliability],[Temporal delay],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; C; C],[3],[N]
+Quantum-Inspired Optimization for Task Scheduling in Software Development Projects,"@inproceedings{ou2023quantum,
+  title={Quantum-inspired optimization for task scheduling in software development projects},
+  author={Ou, Chia-Ho and Li, Yu-Hong and Chen, Chih-Yu and Wu, Chi-Hsuan and Tsai, Yu-Chen and Yan, Zhi-You and Chang, Ching-Ray},
+  booktitle={2023 IEEE International Conference on Quantum Computing and Engineering (QCE)},
+  volume={2},
+  pages={348--349},
+  year={2023},
+  organization={IEEE}
+}",[Y],[Un-specified],[Approach evaluation: 20],N/A,N/A,N/A,[Un-specified],[Un-specified],[Number of employees]; [Number of tasks],[Un-specified],[Fitness value],[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C],[1],[N]
+Constrained Quadratic Model for Optimizing Join Orders,"@inproceedings{saxena2024constrained,
+  title={Constrained quadratic model for optimizing join orders},
+  author={Saxena, Pranshi and Sabek, Ibrahim and Spedalieri, Federico},
+  booktitle={Proceedings of the 1st Workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications},
+  pages={38--44},
+  year={2024}
+}",[Y],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Time budget: 60s],[Join tree structure]; [Number of join predicates],[Number of relations]; [Number of joins],[Un-specified],[Solution cost],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Benchmark testing],[3],[Y],[https://github.com/lfd/vldb24/tree/main],[Qi-specific],[1],[N]
+Left-Deep Join Order Selection with Higher-Order Unconstrained Binary Optimization on Quantum Computers,"@article{uotila2025left,
+  title={Left-Deep Join Order Selection with Higher-Order Unconstrained Binary Optimization on Quantum Computers},
+  author={Uotila, Valter},
+  journal={arXiv preprint arXiv:2502.00362},
+  year={2025}
+}",[Y],[Penalty coefficient],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of joins]; [Graph type],[Number of relations],[Un-specified],[Solution cost],[Un-specified],[Energy value],[Un-specified],[Un-specified],[Un-specified],[Artificial],[5],[N],N/A,[C; C],[2],[Y]
+Multiple Query Optimization on the D-Wave 2X Adiabatic Quantum Computer,"@article{trummer2015multiple,
+  title={Multiple query optimization on the D-Wave 2X adiabatic quantum computer},
+  author={Trummer, Immanuel and Koch, Christoph},
+  journal={arXiv preprint arXiv:1510.06437},
+  year={2015}
+}",[Y],[Penalty coefficient]; [Quantum annealing time],[Un-specified],[QA hardware: 1000],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of plans]; [Number of queries],[Un-specified],[Solution cost],[Un-specified],[Un-specified],[Time complexity for preprocessing],[Un-specified],[Optimization time],[Artificial],[1],[N],N/A,[C; C; C],[3],[N]
+Constructing Optimal Bushy Join Trees by Solving QUBO Problems on Quantum Hardware and Simulators,"@inproceedings{nayak2023constructing,
+  title={Constructing optimal bushy join trees by solving qubo problems on quantum hardware and simulators},
+  author={Nayak, Nitin and Rehfeld, Jan and Winker, Tobias and Warnke, Benjamin and {\c{C}}alikyilmaz, Umut and Groppe, Sven},
+  booktitle={Proceedings of the international workshop on big data in emergent distributed environments},
+  pages={1--7},
+  year={2023}
+}",[Y],[Penalty coefficient]; [QAOA layers]; [Ansatz type]; [Selection of classical optimizers for variational algorithms],[Un-specified],[QA simulator: 10000]; [QA hardware: 1000],[Un-specified],[Quantum hardware: 4 to 247 logical qubits]; [Classical simulator: 4 to 247 logical qubits]; [Classical simulator: 4 to 247 logical qubits],[Un-specified]; [Un-specified]; [Un-specified],[Un-specified],[Number of relations],[Percentage of valid solutions]; [Percentage of optimal solutions],[Percentage of queries retrieving optimal join orders],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Execution time]; [Sampling time]; [Programming time]; [QPU-access overhead time by the solver API]; [Single-sample readout time],[Real-world],[1],[Y],[http://ergast.com/mrd/],[C; Q; H; H],[4],[N]
+Quantum Optimization for IoT Security Detection,"@inproceedings{barletta2022quantum,
+  title={Quantum optimization for IoT security detection},
+  author={Barletta, Vita Santa and Caivano, Danilo and De Vincentiis, Mirko and Magr{\`\i}, Alessio and Piccinno, Antonio},
+  booktitle={International Symposium on Ambient Intelligence},
+  pages={187--196},
+  year={2022},
+  organization={Springer}
+}",[Y],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of features],[Accuracy]; [Recall]; [F1 score]; [Precision],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Execution time],[Real-world],[1],[Y*],[https://research.unsw.edu.au/projects/toniot-datasets],[C],[1],[N]
+Quantum optimization for fast CAN bus intrusion detection.,"@inproceedings{caivano2022quantum,
+  title={Quantum optimization for fast CAN bus intrusion detection},
+  author={Caivano, Danilo and De Vincentiis, Mirko and Nitti, Federica and Pal, Anibrata},
+  booktitle={Proceedings of the 1st international workshop on quantum programming for software engineering},
+  pages={15--18},
+  year={2022}
+}",[Y],[Dataset split ratio],[Approach evaluation: 10],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of features],[Accuracy]; [Precision]; [Recall]; [F1 score],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Training time]; [Prediction time],[Real-world],[2],[N],[https://ocslab.hksecurity.net/Dataset/CAN-intrusion-dataset],[C],[1],[N]
+Multiple query optimization using a gate-based quantum computer,"@article{fankhauser2023multiple,
+  title={Multiple query optimization using a gate-based quantum computer},
+  author={Fankhauser, Tobias and Sol{\`e}r, Marc E and F{\""u}chslin, Rudolf Marcel and Stockinger, Kurt},
+  journal={IEEE Access},
+  volume={11},
+  pages={114031--114043},
+  year={2023},
+  publisher={IEEE}
+}",[Y], [QAOA layers]; [Selection of classical optimizers for variational algorithms]; [QAOA start parameters]; [Penalty coefficient],[Parameter initialization: 30],[Un-specified],[Un-specified],[Classical simulator: Un-specified; Quantum hardware: 4 to 14 qubits],[Number of maximum iterations: 1000 (QAOA classical optimizer only),[Un-specified],[Number of plans]; [Number of queries],[Approximation ratio]; [Optimal solution probability],[Un-specified],[Un-specified],[Un-specified],[Time complexity for algorithm execution],[Un-specified],[Optimization time],[Artificial],[1],[N],N/A,[Q],[1],[Y]
+Leveraging Quantum Computing for Database Index Selection,"@inproceedings{trummer2024leveraging,
+  title={Leveraging quantum computing for database index selection},
+  author={Trummer, Immanuel and Venturelli, Davide},
+  booktitle={Proceedings of the 1st Workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications},
+  pages={14--26},
+  year={2024}
+}",[Y],[Penalty coefficient]; [Quantum annealing time],[Approach evaluation: 10],[QA hardware: 5000],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of index candidates],[Un-specified],[Solution quality],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Embedding time],[Benchmark testing],[1],[N],[https://www.tpc.org/tpc_documents_current_versions/current_specifications5.asp],[H; H],[2],[N]
+Quantum Optimisation of General Join Trees,"@inproceedings{schonberger2023quantum,
+  title={Quantum Optimisation of General Join Trees.},
+  author={Sch{\""o}nberger, Manuel and Trummer, Immanuel and Mauerer, Wolfgang},
+  booktitle={VLDB Workshops},
+  year={2023}
+}",[N],[Penalty coefficient],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of joins]; [Graph type]; [Number of predicates],[Number of relations],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[None],[0],[N],N/A,N/A,[0],[N]
+Reformulating regression test suite optimization using quantum annealing - an empirical study,"@article{trovato2025reformulating,
+  title={Reformulating regression test suite optimization using quantum annealing-an empirical study},
+  author={Trovato, Antonio and De Stefano, Manuel and Pecorelli, Fabiano and Di Nucci, Dario and De Lucia, Andrea},
+  journal={International Journal on Software Tools for Technology Transfer},
+  pages={1--14},
+  year={2025},
+  publisher={Springer}
+}",[Y],[Weight of each objective]; [Penalty coefficient],[Approach evaluation: 10],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of test cases]; [Number of statements to be covered],[Number of non-dominated solutions],[Execution cost of the test suite]; [Failure rate of the test suite],[Parato frontier size],[Un-specified],[Un-specified],[Un-specified],[Execution time],[Real-world],[7],[Y],[https://github.com/AntonioTrovato/SelectQA],[C; H; H],[3],[Y]
+Test Case Minimization with Quantum Annealers,"@article{wang2024test,
+  title={Test case minimization with quantum annealers},
+  author={Wang, Xinyi and Muqeet, Asmar and Yue, Tao and Ali, Shaukat and Arcaini, Paolo},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  volume={34},
+  number={1},
+  pages={1--24},
+  year={2024},
+  publisher={ACM New York, NY}
+}",[Y],[Sub-problem size]; [Weight of each objective]; [Coverage rate],[Approach evaluation: 10],[QA hardware: 100],[Un-specified],[Quantum hardware: 10 to 160 logical qubits],[Un-specified],[Un-specified],[Number of test cases],[Un-specified],[Fitness value],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Embedding time]; [Pre-processing time]; [Optimization time]; [Execution time],[Real-world],[3],[Y],[https://zenodo.org/records/13273345; https://github.com/AsmarMuqeet/BootQA],[C; H; H],[3],[Y]
+Using Quantum computers to speed up dynamic testing of software,"@inproceedings{miranskyy2022using,
+  title={Using quantum computers to speed up dynamic testing of software},
+  author={Miranskyy, Andriy},
+  booktitle={Proceedings of the 1st International Workshop on Quantum Programming for Software Engineering},
+  pages={26--31},
+  year={2022}
+}",[Y],[Relative error for quantum algorithms],[Un-specified],[Grover's algorithm simulator: 1024]; [Grover's algorithm hardware: 4000],[“ibmq_lima” noise model],[Ideal classical simulator: 4 logical qubits; Noisy classical simulator: 4 logical qubits; Quantum hardware: 4 logical qubits],[Number of maximum iterations: Adaptive],[Un-specified],[Database size],[Un-specified],[Output probabilities],[Un-specified],[Un-specified],[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Artificial],[1],[Y],[https://zenodo.org/records/7075159; https://github.com/miranska/qc-dynamic-testing/blob/v0.1.1/example.ipynb],[C],[1],[Y]
+Quantum-Inspired Evolutionary Algorithms for Covering Arrays of Arbitrary Strength,"@inproceedings{wagner2019quantum,
+  title={Quantum-inspired evolutionary algorithms for covering arrays of arbitrary strength},
+  author={Wagner, Michael and Kampel, Ludwig and Simos, Dimitris E},
+  booktitle={Analysis of Experimental Algorithms: Special Event, SEA$^2$ 2019, Kalamata, Greece, June 24-29, 2019, Revised Selected Papers},
+  pages={300--316},
+  year={2019},
+  organization={Springer}
+}",[Y],[Mutation setting]; [Initial qubit states]; [Parameter for updating quantum rotation angles],[Parameter tuning: 10]; [Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum generations: $5\times 10^5$ for parameter tuning and $3 \times 10^6$ for approach evaluation; Optimized objective/solution achieved: A covering array found],[Un-specified], [Covering strength]; [Size of the binary covering array],[Un-specified],[Coverage of covering arrays]; [Number of successful covering array generations] ,[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[Qi-general; Qi-general],[2],[N]
+Failure prediction by relevance vector regression with improved quantum-inspired gravitational search,"@article{lou2018failure,
+  title={Failure prediction by relevance vector regression with improved quantum-inspired gravitational search},
+  author={Lou, Jungang and Jiang, Yunliang and Shen, Qing and Wang, Ruiqin},
+  journal={Journal of Network and Computer Applications},
+  volume={103},
+  pages={171--177},
+  year={2018},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Crossover setting]; [Mutation setting]; [Parameter for updating quantum rotation angles]; [Gravity constant]; [Threshold configuration],[Un-specified],N/A,N/A,[Un-specified],[Number of maximum iterations: 200],[Un-specified],[Number of failure data],[Average relative prediction error],[Fitness value],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Real-world],[4],[N],N/A,[C; C; C; Qi-general; Qi-general],[5],[N]
+QISS: Quantum-enhanced sustainable security incident handling in the IoT,"@article{blanco2024qiss,
+  title={QISS: Quantum-enhanced sustainable security incident handling in the IoT},
+  author={Blanco, Carlos and Santos-Olmo, Antonio and S{\'a}nchez, Luis Enrique},
+  journal={Information},
+  volume={15},
+  number={4},
+  pages={181},
+  year={2024},
+  publisher={MDPI}
+}",[Y],[Penalty coefficient]; [Weight of each objective],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of instances],[Un-specified],[Solution cost]; [Number of selected courses of action],[Un-specified],[Energy value],[Un-specified],[Un-specified],[Execution time],[Real-world],[1],[Y],[https://github.com/GSYAtools/QISS],N/A,[0],[Y]
+Quantum as a Service Architecture for Security in a Smart City,"@inproceedings{barletta2023quantum,
+  title={Quantum as a service architecture for security in a smart city},
+  author={Barletta, Vita Santa and Caivano, Danilo and Lako, Alfred and Pal, Anibrata},
+  booktitle={International Conference on the Quality of Information and Communications Technology},
+  pages={76--89},
+  year={2023},
+  organization={Springer}
+}",[Y],[Ansatz type]; [Selection of classical optimizers for variational algorithms]; [QBoost hyperparameters]; [Dataset split ratio],[Un-specified],[QA hardware: 3000],[Un-specified],[Un-specified],[Number of maximum iterations: 30 for VQC],[Un-specified],[Number of records],[Accuracy]; [Precision]; [Recall]; [F1 score],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Training time]; [Prediction time],[Real-world],[1],[N],[https://research.unsw.edu.au/projects/toniot-datasets],[C],[1],[N]
+Intelligent task allocation method based on improved QPSO in multi-agent system,"@article{zhang2020intelligent,
+  title={Intelligent task allocation method based on improved QPSO in multi-agent system},
+  author={Zhang, Feng},
+  journal={Journal of ambient intelligence and humanized computing},
+  volume={11},
+  number={2},
+  pages={655--662},
+  year={2020},
+  publisher={Springer}
+}",[Y],[Weight of each objective]; [Inertia weight]; [Mutation setting]; [Chaotic map parameter],[Un-specified],N/A,N/A,N/A,[Number of maximum generations: Un-specific; Indicator for convergence: Un-specific],[Un-specified],[Number of tasks]; [Number of agents],[Un-specified],[Task completion time]; [Agent load],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; C],[2],[N]
+Prediction approach of software fault-proneness based on hybrid artificial neural network and quantum particle swarm optimization,"@article{jin2015prediction,
+  title={Prediction approach of software fault-proneness based on hybrid artificial neural network and quantum particle swarm optimization},
+  author={Jin, Cong and Jin, Shu-Wei},
+  journal={Applied Soft Computing},
+  volume={35},
+  pages={717--725},
+  year={2015},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Contraction-expansion coefficient]; [Dataset split ratio]; [Threshold configuration],[Dimensionality reduction: 40]; [Prediction performance evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 100; Indicator for convergence: 10 consecutive cost difference less than a threshold],[Un-specified],[Number of modules],[Recall]; [Specificity]; [Area under the ROC curve],[Un-specified],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Execution time],[Real-world],[4],[N],[https://github.com/klainfo/NASADefectDataset],[C; C; Qi-general],[3],[N]
+Many-objective quantum-inspired particle swarm optimization algorithm for placement of virtual machines in smart computing cloud,"@article{balicki2021many,
+  title={Many-objective quantum-inspired particle swarm optimization algorithm for placement of virtual machines in smart computing cloud},
+  author={Balicki, Jerzy},
+  journal={Entropy},
+  volume={24},
+  number={1},
+  pages={58},
+  year={2021},
+  publisher={MDPI}
+}",[Y],[Population size]; [Learning factor]; [Mutation setting]; [Crossover setting]; [Parameter for updating quantum rotation angles],[Approach evaluation: 10],N/A,N/A,N/A,[Time budget: 30min; Indicator for convergence: No improvement of solution over a given number of iterations],[Un-specified],[Number of virtual machines]; [Number of nodes]; [Number of server types],[Un-specified],[Output probabilities]; [Free capacity of the RAM in the bottleneck computer]; [Free capacity of the disc storage in the bottleneck computer]; [Reliability of the cloud]; [Electric power of the cloud]; [Economic cost of hosts]; [Communication capability of the bottleneck node]; [Processing workload of the bottleneck CPU]; [P-norm between the solution and the ideal point],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Benchmark testing],[4],[Y],[Instance: https://www.researchgate.net/publication/341480343_Benchmark_855]; [Numerical experiments: https://www.researchgate.net/profile/Piotr-Dryja] ,[C; C; C; C],[4],[N]
+Failure prediction by regularized fuzzy learning with intelligent parameters selection,"@article{shen2021failure,
+  title={Failure prediction by regularized fuzzy learning with intelligent parameters selection},
+  author={Shen, Qing and Lou, Jungang and Zhang, Xiongtao and Jiang, Yunliang},
+  journal={Applied Soft Computing},
+  volume={100},
+  pages={106952},
+  year={2021},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Gravity constant]; [Parameter for updating quantum rotation angles]; [Threshold configuration]; [Dataset split ratio],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: 300],[Un-specified],[Dimensions of the input nodes],[Root mean square error]; [Average relative prediction error],[Un-specified],[Un-specified],N/A,[Un-specified],[Un-specified],[Training time],[Real-world],[4],[N],N/A,[C; C; Qi-general; C; Qi-general],[5],[N]
+Optimizing the software test case through physics-informed particle-based method,"@article{kumar2025optimizing,
+  title={Optimizing the software test case through physics-informed particle-based method},
+  author={Kumar Jaiswal, Updesh and Prajapati, Amarjeet},
+  journal={International Journal of System Assurance Engineering and Management},
+  pages={1--18},
+  year={2025},
+  publisher={Springer}
+}",[Y],[Population size]; [Parameters for exploration],[Approach evaluation: 100],N/A,N/A,N/A,[Number of maximum iterations: 50000; Indicator for convergence: Stop with a tolerance of $10^{-12}$ for the globally optimum values],[Un-specified],[Number of components in a test case],[Un-specified],[Reduced number of components in a test case]; [Fitness value],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Benchmark testing]; [Real-world],[1],[N],N/A,[C; C; C; C; C; C; C],[7],[N]
+A tolerance-based memetic algorithm for constrained covering array generation,"@article{guo2023tolerance,
+  title={A tolerance-based memetic algorithm for constrained covering array generation},
+  author={Guo, Xu and Song, Xiaoyu and Zhou, Jian-tao and Wang, Feiyu},
+  journal={Memetic Computing},
+  volume={15},
+  number={3},
+  pages={319--340},
+  year={2023},
+  publisher={Springer}
+}",[Y],[Population size]; [Contraction-expansion coefficient]; [Dominant probability],[Parameter tuning: 30]; [Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 90; Optimized objective/solution achieved: All the t-way schemes covered and the complete test suite meeting the constraints],[Number of constraints],[Number of parameters for software under test]; [Number of discrete values per parameter]; [Covering strength],[Un-specified],[Size of the generated test suite],[Un-specified],N/A,[Time complexity for algorithm execution]; [Space complexity],[Un-specified],[Execution time],[Real-world],[5],[N],[https://lcs.ios.ac.cn/~caisw/CIT.html],[Qi-general; C; C; C; C; C; C; C; C; C; C; C],[12],[N]
+A memetic algorithm for high-strength covering array generation,"@article{guo2023memetic,
+  title={A memetic algorithm for high-strength covering array generation},
+  author={Guo, Xu and Song, Xiaoyu and Zhou, Jian-tao and Wang, Feiyu and Tang, Kecheng and Wang, Zhuowei},
+  journal={IET Software},
+  volume={17},
+  number={4},
+  pages={538--553},
+  year={2023},
+  publisher={Wiley Online Library}
+}",[Y],[Population size]; [Initial temperature]; [Sub-optimal solution acceptance rate]; [Cooling parameter]; [Contraction-expansion coefficient],[Parameter tuning: 30]; [Approach evaluation: 30],N/A,N/A,N/A,[Number of maximum iterations: 40; Optimized objective/solution achieved: All the t-way schemes covered],[Un-specified],[Number of parameters for software under test]; [Number of discrete values per parameter]; [Covering strength],[Un-specified],[Size of the generated test suite],[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Real-world],[2],[N],N/A,[Qi-general; C; C; C; C; C; C; C; C; C; C; C; C],[13],[N]
+Quantum-Inspired Genetic Algorithm for Solving the Test Suite Minimization Problem,"@article{hussein2020quantum,
+  title={Quantum-inspired genetic algorithm for solving the test suite minimization problem},
+  author={Hussein, Hager and Younes, Ahmed and Abdelmoez, Walid},
+  journal={WSEAS Transactions on Computers},
+  volume={19},
+  year={2020}
+}",[Y],[Population size]; [Mutation setting]; [Crossover setting]; [Initial qubit states]; [Parameter for updating quantum rotation angles],[Approach evaluation: 50],N/A,N/A,N/A,[Number of maximum generations: 500; Optimized objective/solution achieved: a solution being found],[Test requirements],[Number of test cases],[Un-specified],[Fitness value]; [Size of the reduced test suite]; [Number of detected faults],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Real-world],[5],[N],[https://sir.csc.ncsu.edu/portal/index.php],[C],[1],[N]
+Quantum inspired genetic algorithm and optimization of queuing delay,"@inproceedings{roy2024quantum,
+  title={Quantum inspired genetic algorithm and optimization of queuing delay},
+  author={Roy, Arnab and Pachuau, Joseph L and Singh, Nongmeikapam Brajabidhu and Saha, Anish Kumar},
+  booktitle={TENCON 2024-2024 IEEE Region 10 Conference (TENCON)},
+  pages={1929--1933},
+  year={2024},
+  organization={IEEE}
+}",[Y],[Population size]; [Weight of each objective]; [Mutation setting],[Un-specified],N/A,N/A,N/A,[Number of maximum generations: 10],[Un-specified],[Number of sources],[Un-specified],[Fitness value]; [Arrival rate],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[Qi-general; Qi-general],[2],[N]
+A Novel Approach for Service Function Chain Embedding in Cloud Datacenter Networks,"@article{qiao2020novel,
+  title={A novel approach for service function chain embedding in cloud datacenter networks},
+  author={Qiao, Wenxin and Liu, Yicen and Lu, Yu and Li, Xi and Yan, Jie and Yao, Zhigang},
+  journal={IEEE Communications Letters},
+  volume={25},
+  number={4},
+  pages={1134--1138},
+  year={2020},
+  publisher={IEEE}
+}",[Y],[Population size]; [Chromosome length]; [Initial qubit states]; [Parameter for updating quantum rotation angles]; [Mutation setting],[Un-specified],N/A,N/A,N/A,[Number of maximum generations: 100 or 500],[Un-specified],[Number of nodes]; [Number of links],[Un-specified],[End-to-end delay],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Execution time],[Real-world],[2],[N],N/A,[C; C; C; C; Qi-general],[5],[N]
+Energy-efficient task offloading and efficient resource allocation for edge computing: a quantum inspired particle swarm optimization approach,"@article{naik2025energy,
+  title={Energy-efficient task offloading and efficient resource allocation for edge computing: a quantum inspired particle swarm optimization approach},
+  author={Naik, Banavath Balaji and Priyanka, Bollu and Ansari, Sarfaraj Alam},
+  journal={Cluster Computing},
+  volume={28},
+  number={3},
+  pages={155},
+  year={2025},
+  publisher={Springer}
+}",[Y],[Population size]; [Inertia weight]; [Cognitive coefficient]; [Weight of each objective],[Approach evaluation: 10],N/A,N/A,N/A,[Number of maximum generations: 500],[Un-specified],[Number of tasks]; [Number of nodes],[Un-specified],[Makespan]; [Resource utilization]; [Energy consumption],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Real-world],[5],[N],N/A,[C; C; C; Qi-general; Qi-general],[5],[N]
+A Cooperative Hybrid Quantum-Inspired Salp Swarm and Differential Evolution for Solving CEC 2022 Benchmark and Controller Placement Problems in Software Defined Networks,"@article{pathak2024cooperative,
+  title={A Cooperative Hybrid Quantum-inspired Salp Swarm and Differential Evolution for solving CEC 2022 Benchmark and Controller Placement Problems in Software Defined Networks},
+  author={Pathak, Sanjai and Mani, Ashish and Chatterjee, Amlan},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}",[Y],[Contraction-expansion coefficient],[Approach evaluation: 30],N/A,N/A,N/A,[Un-specified],[Un-specified],[Number of nodes]; [Number of controllers],[Un-specified],[Switch-to-controller latency]; [Controller-to-controller latency]; [Degree of imbalance]; [Fitness value],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Benchmark testing]; [Real-world],[13],[N],[https://github.com/spirosmastorakis/ndnSIM-1.0-naive_scenarios/tree/master/Internet2%3AOS3E],[C; Qi-general],[2],[N]
+Multi-objective routing optimization for 6G communication networks using a quantum approximate optimization algorithm,"@article{urgelles2022multi,
+  title={Multi-objective routing optimization for 6G communication networks using a quantum approximate optimization algorithm},
+  author={Urgelles, Helen and Picazo-Martinez, Pablo and Garcia-Roger, David and Monserrat, Jose F},
+  journal={Sensors},
+  volume={22},
+  number={19},
+  pages={7570},
+  year={2022},
+  publisher={MDPI}
+}",[Y],[QAOA layers]; [Selection of classical optimizers for variational algorithms]; [Penalty coefficient]; [Slack parameters],[Un-specified],[QAOA simulator: 500],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of nodes]; [Number of links],[Un-specified],[Output probabilities]; [Battery cost]; [Throughput]; [Number of hops]; [Solution cost],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C],[1],[N]
+HPCP-QCWOA: High Performance Clustering Protocol based on Quantum Clone Whale Optimization Algorithm in Integrated Energy System,"@article{liu2022hpcp,
+  title={HPCP-QCWOA: High performance clustering protocol based on quantum clone whale optimization algorithm in integrated energy system},
+  author={Liu, Yang and Li, Chaoqun and Zhang, Yao and Xu, Mengying and Xiao, Jing and Zhou, Jie},
+  journal={Future Generation Computer Systems},
+  volume={135},
+  pages={315--332},
+  year={2022},
+  publisher={Elsevier}
+}",[Y],[Population size]; [Distance-related factor]; [Mutation setting]; [Parameter for updating quantum rotation angles]; [Initial qubit states],[Approach evaluation: 10],N/A,N/A,N/A,[Number of maximum generations: 60],[Un-specified],[Number of nodes],[Un-specified],[Number of living nodes]; [Time when the first node dies]; [Time when a specific number of nodes die]; [Network lifetime]; [Node energy]; [Packet transmission delay],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Un-specified],[Artificial],[4],[N],N/A,[C; C; C],[3],[N]
+Quantum Inspired Task Optimization for IoT Edge Fog Computing Environment,"@article{ahanger2022quantum,
+  title={Quantum inspired task optimization for IoT edge fog computing environment},
+  author={Ahanger, Tariq Ahamed and Dahan, Fadl and Tariq, Usman and Ullah, Imdad},
+  journal={Mathematics},
+  volume={11},
+  number={1},
+  pages={156},
+  year={2022},
+  publisher={MDPI}
+}",[Y],[Confidence interval],[Approach evaluation: 20],N/A,N/A,N/A,[Un-specified],[Un-specified],[Number of instances]; [Number of nodes]; [Number of tasks],[Recall]; [Specificity]; [Precision]; [Coverage]; [Mean absolute error]; [Root mean square error]; [Relative absolute error]; [Root relative squared error],[Energe consumption]; [Temporal delay],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; C; C]; [C; C; C],[6],[N]
+Resource Optimization of SFC Embedding for IoT Networks Using Quantum Computing,"@inproceedings{emu2022resource,
+  title={Resource optimization of sfc embedding for iot networks using quantum computing},
+  author={Emu, Mahzabeen and Choudhury, Salimur and Salomaa, Kai},
+  booktitle={2022 IEEE 27th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD)},
+  pages={83--88},
+  year={2022},
+  organization={IEEE}
+}",[Y],[Un-specified],[Approach evaluation: 10],N/A,N/A,N/A,[Number of maximum iterations: Un-specified],[Un-specified],[Service function chain length]; [Number of IoT hosts],[Un-specified],[Resource utilization]; [Output probabilities],[Un-specified],N/A,[Un-specified],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C; C; C; Q],[4],[N]
+Warm and Cold Start Quantum Annealing for Metaverse Resource Optimization,"@article{emu2024warm,
+  title={Warm and cold start quantum annealing for metaverse resource optimization},
+  author={Emu, Mahzabeen and Choudhury, Salimur and Salomaa, Kai},
+  journal={IEEE Open Journal of the Communications Society},
+  volume={5},
+  pages={1057--1071},
+  year={2024},
+  publisher={IEEE}
+}",[Y],[Crossover setting]; [Mutation setting],[Approach evaluation: 20],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[MetaSlice length]; [Number of hosts],[Un-specified],[Resource consumption cost]; [Proportion of deployed MetaSlice]; [Service acceptance rate],[Un-specified],[Energy landscape],[Time complexity for algorithm execution],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C; C; C; Q],[4],[N]
+Optimal sensor spacing in IoT network based on quantum computing technology,"@article{krishna2023optimal,
+  title={Optimal sensor spacing in IoT network based on quantum computing technology},
+  author={Krishna, Gopal and Saha, Anish Kumar},
+  journal={International Journal of Parallel, Emergent and Distributed Systems},
+  volume={38},
+  number={1},
+  pages={58--84},
+  year={2023},
+  publisher={Taylor \& Francis}
+}",[Y],[Un-specified],[Un-specified],N/A,N/A,N/A,[Number of maximum iterations: Un-specified],[Un-specified],[Number of sensors]; [Number of objects],[Precision]; [Recall]; [Specificity]; [F1 score]; [Accuracy]; [Kappa coefficient]; [Reliability]; [Root mean square error],[Temporal delay]; [Solution cost],[Un-specified],N/A,[Time complexity for algorithm execution],[Un-specified],[Execution time],[Artificial],[1],[N],N/A,[C; C; C],[3],[N]
+Performance-Driven QUBO for Recommender Systems on Quantum Annealers,"@article{niu2024performance,
+  title={Performance-Driven QUBO for Recommender Systems on Quantum Annealers},
+  author={Niu, Jiayang and Li, Jie and Deng, Ke and Sanderson, Mark and Ren, Yongli},
+  journal={arXiv preprint arXiv:2410.15272},
+  year={2024}
+}",[Y],[Penalty coefficient],[Approach evaluation: 5; 150],[QA hardware: 120000],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of features],[Top-10 normalized discounted cumulative gain],[Un-specified],[Un-specified],[Energy value],[Un-specified],[Un-specified],[Execution time],[Real-world],[2],[N],N/A,[Q; Q; Q; Q]; [C; C; C],[7],[N]
+Quantum-based predictive fog scheduler for IoT applications,"@article{bhatia2019quantum,
+  title={Quantum-based predictive fog scheduler for IoT applications},
+  author={Bhatia, Munish and Sood, Sandeep K and Kaur, Simranpreet},
+  journal={Computers in Industry},
+  volume={111},
+  pages={51--67},
+  year={2019},
+  publisher={Elsevier}
+}",[Y],[Confidence interval],[Approach evaluation: 10],N/A,N/A,N/A,[Optimized objective/solution achieved: The objective function value greater than a threshold],[Un-specified],[Number of tasks]; [Number of nodes],[Recall]; [Specificity]; [Precision]; [Coverage]; [Mean absolute error]; [Root mean square error]; [Relative absolute error]; [Root relative squared error],[Energe consumption]; [Temporal delay],[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[1],[N],N/A,[C; C; C]; [C; C; C],[6],[N]
+A Quantum Ant Colony Multi-Objective Routing Algorithm in WSN and Its Application in a Manufacturing Environment,"@article{li2019quantum,
+  title={A quantum ant colony multi-objective routing algorithm in WSN and its application in a manufacturing environment},
+  author={Li, Fei and Liu, Min and Xu, Gaowei},
+  journal={Sensors},
+  volume={19},
+  number={15},
+  pages={3334},
+  year={2019},
+  publisher={MDPI}
+}",[Y], [Parameter for updating quantum rotation angles]; [Initial qubit states]; [Weight of each objective],[Un-specified],N/A,N/A,N/A,[Number of maximum generations: 400 or 500],[Un-specified],[Number of nodes],[Un-specified],[Fitness value]; [Network lifetime] ,[Un-specified],N/A,[Un-specified],[Un-specified],[Un-specified],[Artificial],[2],[N],N/A,[C],[1],[N]
+Ready to leap (by co-design)? join order optimisation on quantum hardware,"@article{schonberger2023ready,
+  title={Ready to leap (by co-design)? join order optimisation on quantum hardware},
+  author={Sch{\""o}nberger, Manuel and Scherzinger, Stefanie and Mauerer, Wolfgang},
+  journal={Proceedings of the ACM on Management of Data},
+  volume={1},
+  number={1},
+  pages={1--27},
+  year={2023},
+  publisher={ACM New York, NY, USA}
+}",[Y],[QAOA layers]; [Threshold configuration]; [Quantum annealing time],[Un-specified],[QA hardware: 900; 10000]; [QAOA hardware: 1024],N/A,[Un-specified],[Un-specified]; [Un-specified],[Number of joins]; [Number of join predicates]; [Graph type],[Number of relations],[Proportion of valid solutions]; [Proportion of optimal solutions],[Un-specified],[Un-specified],[Circuit depth]; [Number of logical qubits]; [Coherence time],[Un-specified],[Un-specified],[Optimization time]; [Sampling time],[Benchmark testing]; [Artificial],[3],[Y],[https://github.com/lfd/sigmod23-reproduction]; [https://github.com/lfd/sigmod23-reproduction],[C; C; C; C; C],[5],[Y]

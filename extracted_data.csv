@@ -412,7 +412,7 @@ Quantum Optimisation of General Join Trees,"@inproceedings{schonberger2023quantu
   author={Sch{\""o}nberger, Manuel and Trummer, Immanuel and Mauerer, Wolfgang},
   booktitle={VLDB Workshops},
   year={2023}
-}",[N],[Penalty coefficient],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Number of joins]; [Graph type]; [Number of predicates],[Number of relations],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[Un-specified],[None],[0],[N],N/A,N/A,[0],[N]
+}",[N],N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 Reformulating regression test suite optimization using quantum annealing - an empirical study,"@article{trovato2025reformulating,
   title={Reformulating regression test suite optimization using quantum annealing-an empirical study},
   author={Trovato, Antonio and De Stefano, Manuel and Pecorelli, Fabiano and Di Nucci, Dario and De Lucia, Andrea},
